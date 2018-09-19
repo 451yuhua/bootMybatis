@@ -10,7 +10,6 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class BootMybatisApplication {
 
 	public static void main(String[] args) {
-		//develop分支的东西bbbbbcc
 		SpringApplication.run(BootMybatisApplication.class, args);
 	}
 }
